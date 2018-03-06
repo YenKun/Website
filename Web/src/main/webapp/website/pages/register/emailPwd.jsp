@@ -72,7 +72,7 @@
 
 					var txt1,txt2,txt3,flag
 					$("#txt1").keyup(function() {
-						if ($("#txt1").val() != "") {
+						if ($("#txt1").val().trim() != "") {
 							txt1 = true;
 						} else {
 							txt1 = false;
@@ -81,7 +81,7 @@
 					});
 					
 					$("#txt2").keyup(function() {
-						if ($("#txt2").val() != "") {
+						if ($("#txt2").val().trim() != "") {
 							txt2 = true;
 						} else {
 							txt2 = false;
@@ -96,7 +96,7 @@
 					});
 					
 					$("#txt3").keyup(function() {
-						if ($("#txt3").val() != "") {
+						if ($("#txt3").val().trim() != "") {
 							txt3 = true;
 						} else {
 							txt3 = false;

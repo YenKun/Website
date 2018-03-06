@@ -5,7 +5,7 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Sign up to iHitch</title>
+<title>Log in to your iHitch</title>
 <link rel="stylesheet" type="text/css"
 	href="<c:url value="/website/css/normalize.css"/>" />
 <link rel="stylesheet" type="text/css"
@@ -24,18 +24,18 @@
 	</div>
 
 	<div class="resCon">
-		<div class="resOpt">How do you want to sign up?</div>
+		<div class="resOpt">How do you want to log in?</div>
 		<div class="opts">
-			<span>Sign up with my email</span><span style="float:right">&rsaquo;</span>
+			<span>Use my email</span><span style="float:right">&rsaquo;</span>
 		</div>
 		<div class="opts">
-			<span>Sign up with my email</span><span style="float:right">&rsaquo;</span>
+			<span>Use my email</span><span style="float:right">&rsaquo;</span>
 		</div>
 
 		<div style="margin-top: 40px">
-			Already a member?<span
+			Not a member yet?<span
 				style="color: #48a770; margin-left: 10px; cursor: pointer;font-weight: 600">
-				Log in</span>
+				Sign up</span>
 		</div>
 	</div>
 
