@@ -10,7 +10,7 @@
 </head>
 <body class="animsition">
 	<jsp:include page="/website/pages/included/sideBarEffectTop.jsp"></jsp:include>
-	<jsp:include page="/website/pages/included/headerLoginFail.jsp"></jsp:include>
+	<jsp:include page="/website/pages/included/headerLoginOk.jsp"></jsp:include>
 	<!-- Content Start Here -->
 	<div class="topImg"></div>
 	<div class="topSec">
@@ -91,9 +91,7 @@
 			</div>
 		</div>
 	</div>
-
-
-
+	<!-- Content End Here -->
 	<jsp:include page="/website/pages/included/restDiv.jsp"></jsp:include>
 	<jsp:include page="/website/pages/included/importBot.jsp"></jsp:include>
 </body>
