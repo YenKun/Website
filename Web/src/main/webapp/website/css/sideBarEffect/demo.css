@@ -19,13 +19,15 @@ body {
 
 a {
 	text-decoration: none;
-	color: #48a770;
 	outline: none;
 }
 
 a:hover, a:focus {
-	color: #2c774b;
 	outline: none;
+}
+
+a:visited{
+	color: #2c774b;
 }
 
 /* Clearfix hack by Nicolas Gallagher: http://nicolasgallagher.com/micro-clearfix-hack/ */
